@@ -34,6 +34,6 @@ const (
 	Current = 117
 	// Frequency (2 bytes, 0.01 signed)
 	Frequency = 118
-	// Energy (2 bytes, 0.01 signed)
+	// Energy (3 bytes, 0.01 signed)
 	Energy = 131
 )
